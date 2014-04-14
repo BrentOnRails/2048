@@ -3,6 +3,7 @@
       "classList" in document.documentElement) {
     return;
   }
+  
 
   var prototype = Array.prototype,
       push = prototype.push,
